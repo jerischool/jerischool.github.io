@@ -13,13 +13,13 @@
     left: 1em;
     width: 10em }
 	h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
+    font-family: Arial, Helvetica,
+          Times, sans-serif }
 		ul.navbar li {
-    background: white;
+    background: #566472;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em solid white }
   ul.navbar a {
     text-decoration: none }
   a:link {
